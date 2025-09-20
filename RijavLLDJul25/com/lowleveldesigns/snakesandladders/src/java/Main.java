@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java;
 
 import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board.*;
 import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.core.*;
