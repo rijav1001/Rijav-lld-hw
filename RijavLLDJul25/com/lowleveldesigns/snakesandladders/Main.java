@@ -1,9 +1,9 @@
 package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders;
 
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.board.*;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.core.*;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.model.Player;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.util.*;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board.*;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.core.*;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.model.Player;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.util.*;
 
 import java.util.Arrays;
 import java.util.List;

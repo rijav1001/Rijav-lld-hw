@@ -1,9 +1,9 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.core;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.core;
 
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.board.Board;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.board.Jump;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.model.Player;
-import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.util.EventLogger;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board.Board;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board.Jump;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.model.Player;
+import designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.util.EventLogger;
 
 import java.util.List;
 import java.util.Optional;

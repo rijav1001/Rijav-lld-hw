@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.core;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.core;
 
 import java.util.Random;
 

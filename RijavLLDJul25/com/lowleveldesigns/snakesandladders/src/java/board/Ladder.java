@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.board;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board;
 
 public class Ladder extends Jump {
     public Ladder(int start, int end) {
