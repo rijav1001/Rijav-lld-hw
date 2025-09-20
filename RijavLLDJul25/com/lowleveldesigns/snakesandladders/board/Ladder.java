@@ -1,0 +1,12 @@
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.board;
+
+public class Ladder extends Jump {
+    public Ladder(int start, int end) {
+        super(start, end);
+    }
+
+    @Override
+    public String type() {
+        return "LADDER";
+    }
+}
