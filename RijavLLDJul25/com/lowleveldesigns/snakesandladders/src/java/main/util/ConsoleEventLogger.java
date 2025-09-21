@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.util;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.main.util;
 
 public class ConsoleEventLogger implements EventLogger {
     @Override

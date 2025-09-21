@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.model;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.main.model;
 
 public class Player {
     private final String id;

@@ -1,4 +1,4 @@
-package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.board;
+package designpatterns.RijavLLDJul25.com.lowleveldesigns.snakesandladders.src.java.main.board;
 
 import java.util.HashMap;
 import java.util.Map;
